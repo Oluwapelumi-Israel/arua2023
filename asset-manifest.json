@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/arua2023/static/css/main.589a5ede.css",
-    "main.js": "/arua2023/static/js/main.ff0bcfd4.js",
+    "main.css": "/arua2023/static/css/main.abadcfd3.css",
+    "main.js": "/arua2023/static/js/main.7c9380d6.js",
     "static/js/787.fade2e9e.chunk.js": "/arua2023/static/js/787.fade2e9e.chunk.js",
     "static/media/pic1.jpg": "/arua2023/static/media/pic1.d8e7e9ed9b9857687a42.jpg",
     "static/media/Photo_6.jpg": "/arua2023/static/media/Photo_6.80cf47ebcefe05a7a549.jpg",
@@ -15,23 +15,29 @@
     "static/media/Photo_1.jpg": "/arua2023/static/media/Photo_1.76cad13d32d714a4d5ab.jpg",
     "static/media/KumbhSans-Regular.ttf": "/arua2023/static/media/KumbhSans-Regular.8b92f6bc143fd8e0909f.ttf",
     "static/media/margherita.png": "/arua2023/static/media/margherita.2fd7772dc411a2436332.png",
+    "static/media/support11.png": "/arua2023/static/media/support11.8d08ea307e818bcc901b.png",
     "static/media/unilag_icon.png": "/arua2023/static/media/unilag_icon.8d08ea307e818bcc901b.png",
     "static/media/pineapple.png": "/arua2023/static/media/pineapple.4af05d7fb8b55afb892b.png",
+    "static/media/support9.png": "/arua2023/static/media/support9.2584a7bb5078c6473ec0.png",
     "static/media/support2.png": "/arua2023/static/media/support2.60143a5c6a8ed76ab4ee.png",
     "static/media/google.png": "/arua2023/static/media/google.180de1c8312d200208c8.png",
     "static/media/amazon.png": "/arua2023/static/media/amazon.fb03b0841072fd6d4cef.png",
     "static/media/logo.png": "/arua2023/static/media/logo.c0aa4ee15db282ef4cac.png",
+    "static/media/support10.png": "/arua2023/static/media/support10.13331de15afa60080468.png",
+    "static/media/support3.png": "/arua2023/static/media/support3.d20bcc7983441e2d9a6b.png",
     "static/media/walmart.png": "/arua2023/static/media/walmart.e8cb7d3306f2c7731eb0.png",
     "static/media/atlassian.png": "/arua2023/static/media/atlassian.2af69a3cb255736fe8be.png",
+    "static/media/support5.png": "/arua2023/static/media/support5.69bede86f0e312e8a9f7.png",
+    "static/media/support7.png": "/arua2023/static/media/support7.ac4d84d645283b54d136.png",
     "static/media/Youtube_Icon.png": "/arua2023/static/media/Youtube_Icon.7cedfa3a8bc7d3993313.png",
     "static/media/canon.png": "/arua2023/static/media/canon.f6045027a7291399caae.png",
     "index.html": "/arua2023/index.html",
-    "main.589a5ede.css.map": "/arua2023/static/css/main.589a5ede.css.map",
-    "main.ff0bcfd4.js.map": "/arua2023/static/js/main.ff0bcfd4.js.map",
+    "main.abadcfd3.css.map": "/arua2023/static/css/main.abadcfd3.css.map",
+    "main.7c9380d6.js.map": "/arua2023/static/js/main.7c9380d6.js.map",
     "787.fade2e9e.chunk.js.map": "/arua2023/static/js/787.fade2e9e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.589a5ede.css",
-    "static/js/main.ff0bcfd4.js"
+    "static/css/main.abadcfd3.css",
+    "static/js/main.7c9380d6.js"
   ]
 }
