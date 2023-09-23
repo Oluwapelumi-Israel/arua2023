@@ -7,6 +7,15 @@ import Canon from "../assets/canon.png";
 import Walmart from "../assets/walmart.png";
 import Support1 from "../assets/support1.png";
 import Support2 from "../assets/support2.png";
+import Support3 from "../assets/support3.png";
+import Support4 from "../assets/support4.png";
+import Support5 from "../assets/support5.png";
+import Support6 from "../assets/support6.png";
+import Support7 from "../assets/support7.png";
+import Support8 from "../assets/support8.png";
+import Support9 from "../assets/support9.png";
+import Support10 from "../assets/support10.png";
+import Support11 from "../assets/support11.png";
 import "react-slideshow-image/dist/styles.css";
 import { motion } from "framer-motion";
 import { MenuList } from "../helpers/MenuList";
@@ -351,8 +360,11 @@ function Home() {
       <div className="leaders">
         {/* <motion.p animate={{ y: 250 }}>Our Supporters</motion.p> */}
         <p>Our Supporters</p>
-        <div className="">
-          <Marquee>
+        <div>
+          <Marquee autoFill='true'>
+          <div className="imagewrapper unilag">
+              <img src={Support11} alt=""></img>
+            </div>
             <div className="imagewrapper">
               <img src={Google} alt=""></img>
             </div>
@@ -373,6 +385,30 @@ function Home() {
             </div>
             <div className="imagewrapper">
               <img src={Support2} alt=""></img>
+            </div>
+            <div className="imagewrapper">
+              <img src={Support3} alt=""></img>
+            </div>
+            <div className="imagewrapper">
+              <img src={Support4} alt=""></img>
+            </div>
+            <div className="imagewrapper">
+              <img src={Support5} alt=""></img>
+            </div>
+            <div className="imagewrapper">
+              <img src={Support6} alt=""></img>
+            </div>
+            <div className="imagewrapper">
+              <img src={Support7} alt=""></img>
+            </div>
+            <div className="imagewrapper">
+              <img src={Support8} alt=""></img>
+            </div>
+            <div className="imagewrapper">
+              <img src={Support9} alt=""></img>
+            </div>
+            <div className="imagewrapper">
+              <img src={Support10} alt=""></img>
             </div>
           </Marquee>
         </div>
