@@ -1,10 +1,14 @@
 {
   "files": {
-    "main.css": "/arua2023/static/css/main.abadcfd3.css",
-    "main.js": "/arua2023/static/js/main.7c9380d6.js",
+    "main.css": "/arua2023/static/css/main.27130902.css",
+    "main.js": "/arua2023/static/js/main.2e302369.js",
     "static/js/787.fade2e9e.chunk.js": "/arua2023/static/js/787.fade2e9e.chunk.js",
+    "static/media/IMG-20230925-WA0018.jpg": "/arua2023/static/media/IMG-20230925-WA0018.6725ac6d70213df04370.jpg",
+    "static/media/IMG-20230925-WA0019.jpg": "/arua2023/static/media/IMG-20230925-WA0019.909772f7e67eb70f9f59.jpg",
     "static/media/pic1.jpg": "/arua2023/static/media/pic1.d8e7e9ed9b9857687a42.jpg",
     "static/media/Photo_6.jpg": "/arua2023/static/media/Photo_6.80cf47ebcefe05a7a549.jpg",
+    "static/media/IMG-20230925-WA0020.jpg": "/arua2023/static/media/IMG-20230925-WA0020.2c996a3d7a6c3941eb21.jpg",
+    "static/media/IMG-20230925-WA0021.jpg": "/arua2023/static/media/IMG-20230925-WA0021.616822ff37aebd763b86.jpg",
     "static/media/Photo_4.jpg": "/arua2023/static/media/Photo_4.72b512915a609bb9d1a4.jpg",
     "static/media/Photo_3.jpg": "/arua2023/static/media/Photo_3.48e1b6e4618271f8a722.jpg",
     "static/media/vegan.png": "/arua2023/static/media/vegan.0c40d192c9750920f96f.png",
@@ -32,12 +36,12 @@
     "static/media/Youtube_Icon.png": "/arua2023/static/media/Youtube_Icon.7cedfa3a8bc7d3993313.png",
     "static/media/canon.png": "/arua2023/static/media/canon.f6045027a7291399caae.png",
     "index.html": "/arua2023/index.html",
-    "main.abadcfd3.css.map": "/arua2023/static/css/main.abadcfd3.css.map",
-    "main.7c9380d6.js.map": "/arua2023/static/js/main.7c9380d6.js.map",
+    "main.27130902.css.map": "/arua2023/static/css/main.27130902.css.map",
+    "main.2e302369.js.map": "/arua2023/static/js/main.2e302369.js.map",
     "787.fade2e9e.chunk.js.map": "/arua2023/static/js/787.fade2e9e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.abadcfd3.css",
-    "static/js/main.7c9380d6.js"
+    "static/css/main.27130902.css",
+    "static/js/main.2e302369.js"
   ]
 }
