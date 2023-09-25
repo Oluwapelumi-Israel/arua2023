@@ -8,7 +8,7 @@ import '../../styles/Stylelivepodcast/Livepostal.css';
 let Livepostalcard = () => {
     return (
         <section>
-            <section style={{letterSpacing: '10px', textAlign: 'center', marginTop: '3em'}}>POSTAL PRESENTATION SESSION</section>
+            <section style={{letterSpacing: '10px', textAlign: 'center', marginTop: '3em'}}>POSTER PRESENTATION SESSION</section>
             <section className='postals'>
                 <section className='post'>
                     <section className='postal_image'>

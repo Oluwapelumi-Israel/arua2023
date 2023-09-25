@@ -7,7 +7,7 @@ export let Redirect = () => {
 
     return (
         <section className="Container">
-            <section className='Link'><Link to="/livepostalcard">Click here to view postal presentation</Link></section>
+            <section className='Link'><Link to="/livepostalcard">Click here to view poster presentation</Link></section>
         </section>
     );
 };

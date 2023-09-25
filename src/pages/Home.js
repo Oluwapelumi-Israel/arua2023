@@ -82,7 +82,7 @@ function Home() {
     >
       <div className="topSide">
         <h1>ARUA 2023 BIENNIAL INTERNATIONAL CONFERENCE</h1>
-        <p>THEME: Reimagining the future of higher education in africa</p>
+        <p>THEME: Reimagining the Future of Higher Education in Africa</p>
         <CountdownTimer></CountdownTimer>
         <section className="programme">
           <section className="programme_flyer">
