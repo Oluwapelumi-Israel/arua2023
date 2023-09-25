@@ -1,61 +1,100 @@
-.livepostalsession
+.postals
 {
-    width: 78%;
+    width: 90%;
     margin: auto;
-    height: 100vh;
+    padding: 20px;
+}
+
+.post
+{
+    margin: 1em 0 1em 0;
     display: flex;
-    align-items: center;
-    gap: 20px;
+    flex-direction: column;
 }
 
-.carousel_container
-{
-    width: 65%;
-    position: relative;
-}
-
-.livechat
-{
-    width: 35%;
-}
-
-.carousel
+.post .postal_image
 {
     width: 100%;
+    height: 225px;
 }
 
-
-.carousel .slider
+.post .postal_descrip
 {
-    width: 400%;
+    padding: 0.5em;
+}
+
+.post .postal_image img
+{
+    width: 100%;
     height: 100%;
+}
+
+.flex
+{
     display: flex;
-    border: 1px solid #ccc;
-    transform: translateX(0);
-    transform: transform 1s ease-in;    
+    justify-content: space-between;
+    align-items: flex-start;
 }
 
-.carousel .slider img
+.flex p
 {
-    width: 100%;
+    margin-top: 0;
+    width: 50%;
 }
 
-.arrow
+.flex button
 {
-    position: absolute;
+    padding: 1em;
+    background-color: blue;
+    outline: none;
+    border: none;
+    color: white;
+    border-radius: 10px;
+    font-weight: bold;
     cursor: pointer;
 }
 
-.arrow.prev
+
+@media (min-width: 700px)
 {
-    bottom: -30px;
-    left: 10px;
+    .postals
+    {
+        width: 90%;
+        margin: auto;
+    }
+   .post
+   {
+        flex-direction: row;
+        gap: 20px;
+   } 
+
+   .post .postal_image img
+   {
+        width: 381.15px;
+   }
+
+   .post .postal_image
+   {
+        width: 381.15px;
+   }
+
+   .postal_descrip
+   {
+     flex-grow: 1;
+     align-self: center;
+   }
 }
 
-.arrow.next
+@media (min-width: 1000px)
 {
-    bottom: -30px;
-    right: 10px;
+    .postals
+    {
+        width: 70%;
+        margin: auto;
+    }
+
+    .post
+    {
+        margin: 1em 0 1em 0;
+    }
 }
-
-
