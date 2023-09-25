@@ -289,7 +289,7 @@ function Home() {
             2023 Biennial International Conference is hosted by the University
             of Lagos, Nigeria. This year’s conference will be hosted as a hybrid
             event with physical and online participation. The conference
-            structured will include:
+            structure will include:
             <ul>
               <li>Five Keynote Addresses</li>
               <li>Four Plenary Sessions</li>
