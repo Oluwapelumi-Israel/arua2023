@@ -145,6 +145,7 @@
   font-size: 1.5em;
   text-align: center;
   width: 100%;
+  margin-bottom: 1em;
 }
 
 .programme .programme_days .days
@@ -239,6 +240,18 @@
 .visible
 {
   display: none;
+}
+
+
+.menu
+{
+  margin-bottom: 2em;
+}
+
+
+.menu .menuTitle
+{
+  margin-bottom: 1em;
 }
 
 

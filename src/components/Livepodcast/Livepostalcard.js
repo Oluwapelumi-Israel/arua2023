@@ -1,3 +1,4 @@
+import {Link} from 'react-router-dom';
 import image1 from '../../assets/IMG-20230925-WA0018.jpg';
 import image2 from '../../assets/IMG-20230925-WA0019.jpg';
 import image3 from '../../assets/IMG-20230925-WA0020.jpg';
@@ -18,7 +19,7 @@ let Livepostalcard = () => {
                         <p>Where There is No Doctor: Health Care in Rural Uganda</p>
                         <section className='flex'>
                             <p>John Shen</p>
-                            <button>View to comment</button>
+                            <button><Link to='/comment'>View to comment</Link></button>
                         </section>
                     </section>       
                 </section>

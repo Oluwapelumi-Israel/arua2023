@@ -89,7 +89,7 @@ function Home() {
             <img className="hero" src={Hero} alt=""></img>
           </section>
           <section className="programme_days">
-            <h1>15th - 17th of November 2023</h1>
+            <h1>15 - 17 of November 2023</h1>
 
             <section className="days">
                   <section className={DayOne ? 'active' : ''} onClick={dayone}>DAY 1</section>
@@ -307,9 +307,9 @@ function Home() {
         </section>
       </div>
       <div className="menu">
-        <h1 className="menuTitle">Meet Our Amazing Speakers</h1>
+        <h1 className="menuTitle">Meet our speakers</h1>
         <div className="subheader">
-          <h2>Conference Speakers</h2>
+          <h2>Conference speakers</h2>
           <hr></hr>
         </div>
         <div className="menuList">
@@ -341,7 +341,7 @@ function Home() {
           })}
         </div>
         <div className="subheader">
-          <h2>Keynote Speakers</h2>
+          <h2>Keynote speakers</h2>
           <hr></hr>
         </div>
         <div className="menuList menu3">
@@ -359,7 +359,7 @@ function Home() {
       </div>
       <div className="leaders">
         {/* <motion.p animate={{ y: 250 }}>Our Supporters</motion.p> */}
-        <p>Our Supporters</p>
+        <p>Our supporters</p>
         <div>
           <Marquee autoFill='true'>
           <div className="imagewrapper unilag">

@@ -21,6 +21,21 @@ export const MenuList = [
     image: PedroTechSpecial,
     price: "Content Strategist",
   },
+  {
+    name: "Justin Lyons",
+    image: Pepperoni,
+    price: "Founder & CEO",
+  },
+  {
+    name: "Anita Bishop",
+    image: Margherita,
+    price: "Chief Product Officer",
+  },
+  {
+    name: "Frank Chavez",
+    image: PedroTechSpecial,
+    price: "Content Strategist",
+  },
 ];
 
 export const MenuList2 = [

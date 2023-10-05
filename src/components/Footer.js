@@ -14,7 +14,7 @@ function Footer() {
         <FacebookIcon></FacebookIcon>
         <LinkedInIcon></LinkedInIcon>
       </div>
-      <p> &copy; 2023 C.I.T.S University of Lagos.</p>
+      <p> &copy; 2023 ABS-CITS University of Lagos.</p>
     </div>
   );
 }
